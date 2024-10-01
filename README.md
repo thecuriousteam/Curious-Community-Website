@@ -1,3 +1,28 @@
+
+# Project Overview: Curious Community
+
+We are building a cutting-edge community website named Curious Community using the MERN stack (MongoDB, Express.js, React, Node.js) and Tailwind CSS for the frontend styling. The goal of Curious Community is to create a unique platform specifically designed for technology enthusiasts and developers. It will integrate the best features from social networks like LinkedIn, Instagram, and Facebook but tailor these features to serve the needs of a tech-focused audience.
+
+## Key Features:
+1. Professional Networking (Inspired by LinkedIn):
+	- User profiles highlighting skills, projects, and experience
+	- Job boards and career opportunities
+	- Tech-focused discussions, events, and groups
+
+2. Content Sharing (Inspired by Instagram):
+	- Visual content sharing such as coding snippets, design layouts, and infographics
+	- Technology-themed stories and posts
+	- Tutorials, guides, and quick tech tips in an interactive format
+
+3. Community Engagement (Inspired by Facebook):
+	- Public and private groups for tech stacks, programming languages, or specific projects
+	- Forums for collaboration, Q&A, and mentoring
+	- Developer-focused events, webinars, and hackathons
+
+## Our Vision:
+The Curious Community will be the go-to platform for developers and technologists, fostering a space for growth, collaboration, and networking in the tech industry. By combining the best elements of popular social platforms and focusing exclusively on technology, we aim to empower our users to share knowledge, seek guidance, and build their professional network within the global tech community.
+
+
 # Contributing Guidelines
 
 Welcome to our open-source project! By contributing, you help us create better software for everyone.
@@ -49,7 +74,7 @@ Before you start contributing, please take a moment to read the following guidel
 ## How Can I Contribute?
 
 ### Team Onboarding
-- Developers needs to onboard to opensource community for easy information flow along with admins, please join with this link  [Curious Developers Community - Hacktoberfest ](https://chat.whatsapp.com/HNu3VaLPK3z3yt3JFUs7D7)</br>
+- Developers need to onboard to opensource community for easy information flow along with admins, please join with this link  [Curious Developers Community - Hacktoberfest ](https://chat.whatsapp.com/HNu3VaLPK3z3yt3JFUs7D7)</br>
 
 ### Reporting Bugs
 
