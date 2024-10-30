@@ -9,7 +9,7 @@ function App() {
 					Curious Developers Community
 				</h1>
 				<p className="text-lg font-light text-gray-600 mb-6">
-					Where curious minds come together to learn, share, and grow in the world of development.
+					Where curious minds come together to learn, share, and grow in the world of development.<br /> #LetsGrowAllTogether
 				</p>
 				<a
 					href="https://community.curiousdevelopers.in/"
