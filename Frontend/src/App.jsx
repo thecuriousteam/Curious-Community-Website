@@ -27,6 +27,9 @@ function App() {
 						className="w-24 h-24 mx-auto"
 					/>
 				</div>
+				<div className="mt-4 text-sm text-gray-500">
+					Stay curious, stay creative!
+				</div>
 			</div>
 		</div>
 	);
